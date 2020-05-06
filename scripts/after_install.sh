@@ -1,2 +1,2 @@
-cd /var/www/react-cicd
-sudo npm install
+# cd /var/www/react-cicd
+# sudo npm install
